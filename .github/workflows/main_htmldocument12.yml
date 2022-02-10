@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Htmldocument12'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F24F620E87C41D394780A24EB1ED3F9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9CC1F3F69F0747469CD2D9EA46B7EA7A }}
           package: .
